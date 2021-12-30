@@ -1,0 +1,12 @@
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.csprojAssemblyReference.cache
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.AssemblyInfoInputs.cache
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.AssemblyInfo.cs
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.csproj.CoreCompileInputs.cache
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\Vierop1Rij.Domein.deps.json
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\Vierop1Rij.Domein.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\ref\Vierop1Rij.Domein.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\Vierop1Rij.Domein.pdb
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\ref\Vierop1Rij.Domein.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.Domein.pdb

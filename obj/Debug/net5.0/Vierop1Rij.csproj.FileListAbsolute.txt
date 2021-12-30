@@ -1,0 +1,12 @@
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\Vierop1Rij.deps.json
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\Vierop1Rij.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\ref\Vierop1Rij.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\bin\Debug\net5.0\Vierop1Rij.pdb
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.csprojAssemblyReference.cache
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.AssemblyInfoInputs.cache
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.AssemblyInfo.cs
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.csproj.CoreCompileInputs.cache
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\ref\Vierop1Rij.dll
+C:\Users\Jordy\source\repos\Vierop1Rij\obj\Debug\net5.0\Vierop1Rij.pdb

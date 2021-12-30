@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w04YhHMIXb7AbKeF7jf+vVcZu0YLUU7jrr9e7BGniNig1BSi1A8syoI1n1GdjR0yFtjJnrRqi5aE2gvQr6HmvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jordy\\source\\repos\\Vierop1Rij\\Vierop1Rij.Domein.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordy\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
